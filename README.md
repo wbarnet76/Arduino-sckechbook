@@ -24,10 +24,11 @@ Button Control servo
 Use the monitor to print "hello world".
 
 ## Code 
-*[hello world](https://create.arduino.cc/editor/wbarnett/49148fc3-9480-4dba-9c02-c4ca2001703a/preview)
+[Hello World](https://create.arduino.cc/editor/wbarnett/49148fc3-9480-4dba-9c02-c4ca2001703a/preview)
 
 ## Refletion
 Good start to coding. Had some trouble remembering the semi-colon at the end of lines.
+
 
 
 # Finite LED blinker
@@ -39,6 +40,7 @@ Have a count-down clock that blinks the LED.
 
 ## Refletion
 The variables gave me some issues but all around it went well.
+
 
 
 # Variable LED blinker
