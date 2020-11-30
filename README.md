@@ -29,7 +29,7 @@ Use the monitor to print "hello world".
 ### Refletion
 Good start to coding. Had some trouble remembering the semi-colon at the end of lines.
 
-
+---
 
 ## Finite LED blinker
 
@@ -41,7 +41,7 @@ Have a count-down clock that blinks the LED.
 ### Refletion
 The variables gave me some issues but all around it went well.
 
-
+---
 
 ## Variable LED blinker
 
@@ -53,5 +53,5 @@ Have a LED blink for a peroid then not blink for the same time.
 ### Refletion
 The order of opertions made it harder to understand. All the spelling mistakes made it much harder.
 
-
+---
 
