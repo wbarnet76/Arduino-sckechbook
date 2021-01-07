@@ -76,6 +76,18 @@ Code and wire a two buttons to blink two diffrent LEDs when pushed.
 [Two Button LED](https://create.arduino.cc/editor/wbarnett/82b2ad86-b51d-4cf1-9df0-bc5ae980902b/preview)
 
 ### Refletion
-the if staments kinda got me
+The if staments kinda got me.
+
+---
+
+## Servo Control
+
+code a sevo to move in a desired direction.
+
+### Code
+[Servo Control](https://create.arduino.cc/editor/wbarnett/562697cc-5d9a-4846-beda-99c7c29d302b)
+
+### Refletion
+Took some time to get the servo go back to a staic postion.
 
 ---
